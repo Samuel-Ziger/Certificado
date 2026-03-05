@@ -61,8 +61,8 @@ Certificado/
 
 ## Observações
 
-- Os certificados são de autoria das respectivas instituições/plataformas (ex.: Solyd e demais provedores dos cursos).
-- Mantenha apenas documentos que você tem direito de divulgar e que não violem termos das plataformas.
+- **Uso exclusivo:** este repositório é um portfólio pessoal. Os certificados aqui são **meus**; não há propósito de outras pessoas adicionarem certificados — o uso é exclusivamente meu.
+- Os certificados são emitidos pelas respectivas instituições/plataformas (ex.: Solyd e demais provedores dos cursos).
 
 ---
 
