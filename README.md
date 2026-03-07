@@ -25,7 +25,7 @@ Os certificados estão organizados em pastas por tema. Resumo por área:
 | **Programação** | Fundamentos de C para Pentesters, Introdução ao Python e Algoritmos, Python Orientado a Objetos |
 | **Sistemas** | Linux e Shell |
 | **Engenharia social** | Técnicas de Phishing e Engenharia Social |
-| **IA** | A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes |
+| **IA** | A Era da IA (Machine Learning, LLMs, IA Generativa e Agentes), Fundamentos de Modelos de Linguagem de Grande Escala, Introdução à Engenharia de Prompts, Técnicas de Engenharia de Prompt |
 | **Outras plataformas** | Introduction to Cybersecurity, Ethical Hacker, Cyber Threat Management |
 | **Outros** | Perfil/currículo (Samuel_Ziger.pdf) e demais documentos |
 
@@ -44,7 +44,7 @@ Certificado/
 ├── Programação/      # C, Python (introdução e OO)
 ├── Sistemas/         # Linux e Shell
 ├── Engenharia social/# Phishing e engenharia social
-├── IA/               # Machine Learning, LLMs, IA generativa e agentes
+├── IA/               # LLMs, IA generativa, engenharia de prompts
 ├── Outras plataformas/ # Certificados externos (Cisco/NetAcad etc.)
 └── Outros/           # Perfil e demais documentos
 ```
@@ -66,4 +66,4 @@ Certificado/
 
 ---
 
-*Última atualização: 5 de março de 2026*
+*Última atualização: março de 2026*
