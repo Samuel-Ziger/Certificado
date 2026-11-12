@@ -7,35 +7,39 @@
 Segurança ofensiva · Pentest · Desenvolvimento · Infraestrutura · Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/credenciais-39-2563EB?style=for-the-badge" alt="39 credenciais">
+  <img src="https://img.shields.io/badge/credenciais-43-2563EB?style=for-the-badge" alt="43 credenciais distintas">
   <img src="https://img.shields.io/badge/áreas-11-7C3AED?style=for-the-badge" alt="11 áreas">
-  <img src="https://img.shields.io/badge/carga_documentada-394h_16min-059669?style=for-the-badge" alt="394 horas e 16 minutos de carga documentada">
+  <img src="https://img.shields.io/badge/carga_documentada-442h_16min-059669?style=for-the-badge" alt="442 horas e 16 minutos de carga documentada">
   <img src="https://img.shields.io/badge/período-2025--2026-334155?style=for-the-badge" alt="Período de 2025 a 2026">
 </p>
 
 Repositório pessoal que reúne certificados de conclusão e certificações profissionais, com foco principal em cibersegurança, segurança ofensiva e desenvolvimento.
 
-[Destaques](#destaques) · [Visão geral](#visão-geral) · [Catálogo completo](#catálogo-completo) · [Documentos profissionais](#documentos-profissionais)
+[Certificações com exame](#certificações-com-exame) · [Visão geral](#visão-geral) · [Catálogo completo](#catálogo-completo) · [Projetos](#projetos) · [Documentos profissionais](#documentos-profissionais)
 
 </div>
 
 ---
 
-## Destaques
+## Certificações com exame
 
-| Credencial | Emissor | Conclusão | Evidência |
-|---|---|---:|---:|
-| Solyd Certified Pentester - SYCP | Solyd Offensive Security | 09/06/2026 | [Ver certificado](<Pentest/Solyd-SYCP.pdf>) |
-| Certificação Fundamentos em Cibersegurança | IBSEC | 15/03/2026 | [Ver certificado](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
-| Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | 13/03/2026 | [Ver certificado](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
-| Ethical Hacker | Cisco Networking Academy | 11/10/2025 | [Ver certificado](<Outras plataformas/Ethical_Hacker_certificate_girakosam3-gmail-com_55cf545a-daf6-4e17-943e-f0278b1ff0df.pdf>) |
+| Credencial | Emissor | Avaliação | Conclusão | Evidência |
+|---|---|---|---:|---|
+| Certified Red Team Analyst - CRTA | CyberWarFare Labs | Exame prático | 30/10/2026 | [Ver certificado](<Pentest/CRTA.pdf>) |
+| Solyd Certified Pentester - SYCP | Solyd Offensive Security | Exame prático | 09/06/2026 | [Ver certificado](<Pentest/Solyd-SYCP.pdf>) |
+| Certificação Fundamentos em Cibersegurança | IBSEC | Exame de conhecimentos e habilidades | 15/03/2026 | [Ver certificado](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
+| Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | Exame de conhecimentos e habilidades | 13/03/2026 | [Ver certificado](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
+
+O inventário reúne **4 certificações com exame e 39 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 43 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
+
+As certificações práticas são descritas pelos emissores: [SYCP - Solyd](https://solyd.com.br/) e [CRTA - CyberWarFare Labs](https://cyberwarfare.live/product/red-team-analyst-crta/).
 
 ## Visão geral
 
 | Área | Credenciais | Principais temas |
 |---|---:|---|
-| [Fundamentos](<Fundamentos>) | 10 | Segurança da informação, criptografia, redes, privacidade e PowerShell |
-| [Pentest](<Pentest>) | 7 | Metodologias, reconhecimento, infraestrutura, Docker e pós-exploração |
+| [Fundamentos](<Fundamentos>) | 13 | Segurança da informação, criptografia, redes, privacidade, PowerShell, Assembly e análise de malware |
+| [Pentest](<Pentest>) | 8 | SYCP, CRTA, metodologias, reconhecimento, infraestrutura, Docker e pós-exploração |
 | [Inteligência Artificial](<IA>) | 4 | Machine Learning, LLMs, IA generativa e engenharia de prompts |
 | [Programação](<Programação>) | 3 | Python, orientação a objetos, automação, algoritmos e C |
 | [Redes e infraestrutura](<Redes e infra>) | 3 | Wi-Fi, DoS e botnets |
@@ -45,46 +49,52 @@ Repositório pessoal que reúne certificados de conclusão e certificações pro
 | [Bug Bounty](<Bug Bounty>) | 1 | Automação e estratégias de Bug Bounty |
 | [Engenharia Social](<Engenharia social>) | 1 | Phishing e engenharia social |
 | [Mobile](<Mobile>) | 1 | Segurança Android e desenvolvimento de malware em laboratório |
-| **Total** | **39** | |
+| **Total** | **43** | |
 
 ### Emissores
 
 | Instituição | Credenciais |
 |---|---:|
-| Solyd Offensive Security | 26 |
+| Solyd Offensive Security | 28 |
 | DIO | 7 |
 | Cisco Networking Academy | 3 |
 | IBSEC - Instituto Brasileiro de Cibersegurança | 2 |
 | Desec Security | 1 |
+| CyberWarFare Labs | 1 |
+| Hacking Club | 1 |
 
-> A carga horária total de **394 h 16 min** considera as 33 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entraram nessa soma.
+> A carga horária total de **442 h 16 min** considera as 36 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
 
 ## Catálogo completo
 
 Cada formação abaixo possui acesso direto ao certificado armazenado no repositório. Quando o emissor oferece uma página pública de autenticidade, o link de validação também está disponível.
 
 <details>
-<summary><strong>Pentest - 7 credenciais</strong></summary>
+<summary><strong>Pentest - 8 credenciais</strong></summary>
 
 | Formação | Emissor | Carga horária | Conclusão | Evidência |
 |---|---|---:|---:|---|
+| Certified Red Team Analyst - CRTA | CyberWarFare Labs | - | 30/10/2026 | [PDF](<Pentest/CRTA.pdf>) |
 | Solyd Certified Pentester - SYCP | Solyd Offensive Security | - | 09/06/2026 | [PDF](<Pentest/Solyd-SYCP.pdf>) |
 | Docker para Pentesters | Solyd | 18 h 40 min | 20/03/2026 | [PDF](<Pentest/Docker para Pentesters.pdf>) · [Validar](https://solyd.com.br/verificar/ye0u6PWPiz) |
 | Metodologias de Pentest na Prática | Solyd | 10 h | 11/02/2026 | [PDF](<Pentest/curso Metodologias de Pentest na Prática.pdf>) · [Validar](https://solyd.com.br/verificar/mcMC2nG2ar) |
 | Pós-exploração Linux | Solyd | 13 h 20 min | 29/01/2026 | [PDF](<Pentest/curso Pós-exploração Linux.pdf>) · [Validar](https://solyd.com.br/verificar/QJ7mE7PqhR) |
 | Dominando o Pentest em Infraestrutura de Redes | Solyd | 13 h 20 min | 19/12/2025 | [PDF](<Pentest/Dominando o Pentest em Infraestrutura de.pdf>) · [Validar](https://solyd.com.br/verificar/0XymbFAkwP) |
 | Dominando o Recon em Pentest | Solyd | 34 h 40 min | 19/12/2025 | [PDF](<Pentest/Dominando o Recon em Pentest.pdf>) · [Validar](https://solyd.com.br/verificar/jLBFSvoYP0) |
-| Experiência Riachuelo: Cibersegurança | DIO | 1 h | 03/03/2026 | [PDF](<Pentest/Bem vindo a Experiência Riachuelo Cibersegurança.pdf>) |
+| Bem-vindo à Experiência Riachuelo: Cibersegurança | DIO | 1 h | 03/03/2026 | [PDF](<Pentest/Bem vindo a Experiência Riachuelo Cibersegurança.pdf>) |
 
 </details>
 
 <details>
-<summary><strong>Fundamentos - 10 credenciais</strong></summary>
+<summary><strong>Fundamentos - 13 credenciais</strong></summary>
 
 | Formação | Emissor | Carga horária | Conclusão | Evidência |
 |---|---|---:|---:|---|
 | Certificação Fundamentos em Cibersegurança | IBSEC | - | 15/03/2026 | [PDF](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
 | Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | - | 13/03/2026 | [PDF](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
+| Fundamentos de Análise e Desenvolvimento de Malwares | Solyd | 26 h 40 min | 11/11/2026 | [PDF](<Fundamentos/Fundamentos de Análise e Desenvolvimento de Malware.pdf>) · [Validar](https://solyd.com.br/verificar/Hbfs04kAPI) |
+| Fundamentos de Assembly para Pentester e Desenvolvimento de Exploits | Solyd | 13 h 20 min | 10/11/2026 | [PDF](<Fundamentos/Fundamentos de Assembly para Pentester.pdf>) · [Validar](https://solyd.com.br/verificar/84DAC5sQFi) |
+| Hacking para iniciantes | Hacking Club | 8 h | 20/09/2026 | [PDF](<Fundamentos/Hacking para iniciantes.pdf>) · [Validar](https://app.hackingclub.com/certificate/validate) |
 | Fundamentos de Privacidade e Anonimato | Solyd | 8 h | 16/03/2026 | [PDF](<Fundamentos/Fundamentos de Privacidade e Anonimato.pdf>) · [Validar](https://solyd.com.br/verificar/n44nvF001T) |
 | Fundamentos de PowerShell para Pentesters | Solyd | 3 h 20 min | 05/05/2026 | [PDF](<Fundamentos/Fundamentos de Powershell para Pentesters.pdf>) · [Validar](https://solyd.com.br/verificar/PCOOdEdhgL) |
 | Princípios da Cibersegurança | DIO | 2 h | 10/03/2026 | [PDF](<Fundamentos/Príncipios da cibersegurança.pdf>) |
@@ -190,6 +200,10 @@ Cada formação abaixo possui acesso direto ao certificado armazenado no reposit
 
 </details>
 
+## Projetos
+
+- [RedTeam-Essentials](https://github.com/Samuel-Ziger/RedTeam-Essentials): repositório educacional de autoria própria com materiais de estudo de segurança ofensiva, Red Team e pentest. Complementa este catálogo de formação com conteúdo técnico.
+
 ## Documentos profissionais
 
 Os documentos da pasta <code>Outros/</code> não entram na contagem de credenciais:
@@ -197,6 +211,9 @@ Os documentos da pasta <code>Outros/</code> não entram na contagem de credencia
 - [Currículo em português - PDF atualizado](<Outros/Samuel_Ziger_CV_PT_atualizado.pdf>)
 - [Currículo em português - DOCX](<Outros/Samuel_Ziger_CV_PT.docx>)
 - [Currículo em inglês - PDF](<Outros/Samuel_Ziger.pdf>)
+- [Currículo em inglês - DOCX](<Outros/Samuel_Ziger_CV_EN.docx>)
+
+As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **12 de novembro de 2026**.
 
 ## Observações
 
@@ -209,7 +226,7 @@ Os documentos da pasta <code>Outros/</code> não entram na contagem de credencia
 
 <div align="center">
 
-**Última revisão do inventário: 8 de setembro de 2026**
+**Última revisão do inventário: 12 de novembro de 2026**
 
 [Voltar ao topo](#certificações-e-formação)
 
