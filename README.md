@@ -7,7 +7,7 @@
 Segurança ofensiva · Pentest · Desenvolvimento · Infraestrutura · Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/credenciais-43-2563EB?style=for-the-badge" alt="43 credenciais distintas">
+  <img src="https://img.shields.io/badge/credenciais-44-2563EB?style=for-the-badge" alt="44 credenciais distintas">
   <img src="https://img.shields.io/badge/áreas-11-7C3AED?style=for-the-badge" alt="11 áreas">
   <img src="https://img.shields.io/badge/carga_documentada-442h_16min-059669?style=for-the-badge" alt="442 horas e 16 minutos de carga documentada">
   <img src="https://img.shields.io/badge/período-2025--2026-334155?style=for-the-badge" alt="Período de 2025 a 2026">
@@ -25,14 +25,15 @@ Repositório pessoal que reúne certificados de conclusão e certificações pro
 
 | Credencial | Emissor | Avaliação | Conclusão | Evidência |
 |---|---|---|---:|---|
+| Certified API Red Team Analyst - API-RTA | CyberWarFare Labs | Exame prático | 14/11/2026 | [Ver certificado](<Web/API-RTA.pdf>) |
 | Certified Red Team Analyst - CRTA | CyberWarFare Labs | Exame prático | 30/10/2026 | [Ver certificado](<Pentest/CRTA.pdf>) |
 | Solyd Certified Pentester - SYCP | Solyd Offensive Security | Exame prático | 09/06/2026 | [Ver certificado](<Pentest/Solyd-SYCP.pdf>) |
 | Certificação Fundamentos em Cibersegurança | IBSEC | Exame de conhecimentos e habilidades | 15/03/2026 | [Ver certificado](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
 | Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | Exame de conhecimentos e habilidades | 13/03/2026 | [Ver certificado](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
 
-O inventário reúne **4 certificações com exame e 39 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 43 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
+O inventário reúne **5 certificações com exame e 39 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 44 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
 
-As certificações práticas são descritas pelos emissores: [SYCP - Solyd](https://solyd.com.br/) e [CRTA - CyberWarFare Labs](https://cyberwarfare.live/product/red-team-analyst-crta/).
+As certificações práticas são descritas pelos emissores: [SYCP - Solyd](https://solyd.com.br/), [CRTA - CyberWarFare Labs](https://cyberwarfare.live/product/red-team-analyst-crta/) e [API-RTA - CyberWarFare Labs](https://cyberwarfare.live/product/api-red-team-analyst-api-rta/).
 
 ## Visão geral
 
@@ -44,12 +45,12 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | [Programação](<Programação>) | 3 | Python, orientação a objetos, automação, algoritmos e C |
 | [Redes e infraestrutura](<Redes e infra>) | 3 | Wi-Fi, DoS e botnets |
 | [Sistemas](<Sistemas>) | 3 | Linux, Shell Script, Windows e Active Directory |
-| [Segurança Web](<Web>) | 3 | Aplicações web, desenvolvimento web e IA aplicada ao pentest |
+| [Segurança Web](<Web>) | 4 | API-RTA, segurança de APIs, aplicações web, desenvolvimento web e IA aplicada ao pentest |
 | [Outras plataformas](<Outras plataformas>) | 3 | Ethical Hacking, introdução à cibersegurança e gestão de ameaças |
 | [Bug Bounty](<Bug Bounty>) | 1 | Automação e estratégias de Bug Bounty |
 | [Engenharia Social](<Engenharia social>) | 1 | Phishing e engenharia social |
 | [Mobile](<Mobile>) | 1 | Segurança Android e desenvolvimento de malware em laboratório |
-| **Total** | **43** | |
+| **Total** | **44** | |
 
 ### Emissores
 
@@ -60,7 +61,7 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | Cisco Networking Academy | 3 |
 | IBSEC - Instituto Brasileiro de Cibersegurança | 2 |
 | Desec Security | 1 |
-| CyberWarFare Labs | 1 |
+| CyberWarFare Labs | 2 |
 | Hacking Club | 1 |
 
 > A carga horária total de **442 h 16 min** considera as 36 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
@@ -107,10 +108,11 @@ Cada formação abaixo possui acesso direto ao certificado armazenado no reposit
 </details>
 
 <details>
-<summary><strong>Segurança Web - 3 credenciais</strong></summary>
+<summary><strong>Segurança Web - 4 credenciais</strong></summary>
 
 | Formação | Emissor | Carga horária | Conclusão | Evidência |
 |---|---|---:|---:|---|
+| Certified API Red Team Analyst - API-RTA | CyberWarFare Labs | - | 14/11/2026 | [PDF](<Web/API-RTA.pdf>) |
 | Ataques em Aplicações Web | Solyd | 52 h | 07/01/2026 | [PDF](<Web/curso Ataques em Aplicações Web.pdf>) · [Validar](https://solyd.com.br/verificar/yS4hfUulEB) |
 | Desenvolvimento Web para Pentesters | Solyd | 12 h | 24/12/2025 | [PDF](<Web/Desenvolvimento Web para Pentesters.pdf>) · [Validar](https://solyd.com.br/verificar/HQG9cArw8w) |
 | Inteligência Artificial para Pentest Web | Solyd | 5 h 20 min | 27/01/2026 | [PDF](<Web/curso Inteligência Artificial para Pentest Web.pdf>) · [Validar](https://solyd.com.br/verificar/v6pUWj2VHq) |
@@ -213,7 +215,7 @@ Os documentos da pasta <code>Outros/</code> não entram na contagem de credencia
 - [Currículo em inglês - PDF](<Outros/Samuel_Ziger.pdf>)
 - [Currículo em inglês - DOCX](<Outros/Samuel_Ziger_CV_EN.docx>)
 
-As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **12 de novembro de 2026**.
+As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **14 de novembro de 2026**.
 
 ## Observações
 
@@ -226,7 +228,7 @@ As versões em português e inglês apresentam as mesmas experiências e certifi
 
 <div align="center">
 
-**Última revisão do inventário: 12 de novembro de 2026**
+**Última revisão do inventário: 14 de novembro de 2026**
 
 [Voltar ao topo](#certificações-e-formação)
 
