@@ -7,9 +7,9 @@
 Segurança ofensiva · Pentest · Desenvolvimento · Infraestrutura · Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/credenciais-45-2563EB?style=for-the-badge" alt="45 credenciais distintas">
+  <img src="https://img.shields.io/badge/credenciais-46-2563EB?style=for-the-badge" alt="46 credenciais distintas">
   <img src="https://img.shields.io/badge/áreas-11-7C3AED?style=for-the-badge" alt="11 áreas">
-  <img src="https://img.shields.io/badge/carga_documentada-462h_16min-059669?style=for-the-badge" alt="462 horas e 16 minutos de carga documentada">
+  <img src="https://img.shields.io/badge/carga_documentada-478h_16min-059669?style=for-the-badge" alt="478 horas e 16 minutos de carga documentada">
   <img src="https://img.shields.io/badge/período-2025--2026-334155?style=for-the-badge" alt="Período de 2025 a 2026">
 </p>
 
@@ -31,7 +31,7 @@ Repositório pessoal que reúne certificados de conclusão e certificações pro
 | Certificação Fundamentos em Cibersegurança | IBSEC | Exame de conhecimentos e habilidades | 15/03/2026 | [Ver certificado](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
 | Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | Exame de conhecimentos e habilidades | 13/03/2026 | [Ver certificado](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
 
-O inventário reúne **5 certificações com exame e 40 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 45 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
+O inventário reúne **5 certificações com exame e 41 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 46 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
 
 As certificações práticas são descritas pelos emissores: [SYCP - Solyd](https://solyd.com.br/), [CRTA - CyberWarFare Labs](https://cyberwarfare.live/product/red-team-analyst-crta/) e [API-RTA - CyberWarFare Labs](https://cyberwarfare.live/product/api-red-team-analyst-api-rta/).
 
@@ -39,7 +39,7 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 
 | Área | Credenciais | Principais temas |
 |---|---:|---|
-| [Fundamentos](<Fundamentos>) | 13 | Segurança da informação, criptografia, redes, privacidade, PowerShell, Assembly e análise de malware |
+| [Fundamentos](<Fundamentos>) | 14 | Segurança da informação, criptografia, redes, privacidade, PowerShell, Assembly e análise de malware |
 | [Pentest](<Pentest>) | 9 | SYCP, CRTA, metodologias, reconhecimento, infraestrutura, Docker, pós-exploração e evasão de antivírus e EDR |
 | [Inteligência Artificial](<IA>) | 4 | Machine Learning, LLMs, IA generativa e engenharia de prompts |
 | [Programação](<Programação>) | 3 | Python, orientação a objetos, automação, algoritmos e C |
@@ -50,13 +50,13 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | [Bug Bounty](<Bug Bounty>) | 1 | Automação e estratégias de Bug Bounty |
 | [Engenharia Social](<Engenharia social>) | 1 | Phishing e engenharia social |
 | [Mobile](<Mobile>) | 1 | Segurança Android e desenvolvimento de malware em laboratório |
-| **Total** | **45** | |
+| **Total** | **46** | |
 
 ### Emissores
 
 | Instituição | Credenciais |
 |---|---:|
-| Solyd Offensive Security | 29 |
+| Solyd Offensive Security | 30 |
 | DIO | 7 |
 | Cisco Networking Academy | 3 |
 | IBSEC - Instituto Brasileiro de Cibersegurança | 2 |
@@ -64,7 +64,7 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | CyberWarFare Labs | 2 |
 | Hacking Club | 1 |
 
-> A carga horária total de **462 h 16 min** considera as 37 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
+> A carga horária total de **478 h 16 min** considera as 38 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
 
 ## Catálogo completo
 
@@ -88,12 +88,13 @@ Cada formação abaixo possui acesso direto ao certificado armazenado no reposit
 </details>
 
 <details>
-<summary><strong>Fundamentos - 13 credenciais</strong></summary>
+<summary><strong>Fundamentos - 14 credenciais</strong></summary>
 
 | Formação | Emissor | Carga horária | Conclusão | Evidência |
 |---|---|---:|---:|---|
 | Certificação Fundamentos em Cibersegurança | IBSEC | - | 15/03/2026 | [PDF](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
 | Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | - | 13/03/2026 | [PDF](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
+| Introdução ao Hacking e Pentest 3.0 | Solyd | 16 h | 17/11/2026 | [PDF](<Fundamentos/Introdução ao Hacking e Pentest 3.0.pdf>) · [Validar](https://solyd.com.br/verificar/RuhBwezrRL) |
 | Fundamentos de Análise e Desenvolvimento de Malwares | Solyd | 26 h 40 min | 11/11/2026 | [PDF](<Fundamentos/Fundamentos de Análise e Desenvolvimento de Malware.pdf>) · [Validar](https://solyd.com.br/verificar/Hbfs04kAPI) |
 | Fundamentos de Assembly para Pentester e Desenvolvimento de Exploits | Solyd | 13 h 20 min | 10/11/2026 | [PDF](<Fundamentos/Fundamentos de Assembly para Pentester.pdf>) · [Validar](https://solyd.com.br/verificar/84DAC5sQFi) |
 | Hacking para iniciantes | Hacking Club | 8 h | 20/09/2026 | [PDF](<Fundamentos/Hacking para iniciantes.pdf>) · [Validar](https://app.hackingclub.com/certificate/validate) |
@@ -216,7 +217,7 @@ Os documentos da pasta <code>Outros/</code> não entram na contagem de credencia
 - [Currículo em inglês - PDF](<Outros/Samuel_Ziger.pdf>)
 - [Currículo em inglês - DOCX](<Outros/Samuel_Ziger_CV_EN.docx>)
 
-As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **16 de novembro de 2026**.
+As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **17 de novembro de 2026**.
 
 ## Observações
 
@@ -229,7 +230,7 @@ As versões em português e inglês apresentam as mesmas experiências e certifi
 
 <div align="center">
 
-**Última revisão do inventário: 16 de novembro de 2026**
+**Última revisão do inventário: 17 de novembro de 2026**
 
 [Voltar ao topo](#certificações-e-formação)
 
