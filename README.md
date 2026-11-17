@@ -7,9 +7,9 @@
 Segurança ofensiva · Pentest · Desenvolvimento · Infraestrutura · Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/credenciais-46-2563EB?style=for-the-badge" alt="46 credenciais distintas">
+  <img src="https://img.shields.io/badge/credenciais-47-2563EB?style=for-the-badge" alt="47 credenciais distintas">
   <img src="https://img.shields.io/badge/áreas-11-7C3AED?style=for-the-badge" alt="11 áreas">
-  <img src="https://img.shields.io/badge/carga_documentada-478h_16min-059669?style=for-the-badge" alt="478 horas e 16 minutos de carga documentada">
+  <img src="https://img.shields.io/badge/carga_documentada-495h_56min-059669?style=for-the-badge" alt="495 horas e 56 minutos de carga documentada">
   <img src="https://img.shields.io/badge/período-2025--2026-334155?style=for-the-badge" alt="Período de 2025 a 2026">
 </p>
 
@@ -31,7 +31,7 @@ Repositório pessoal que reúne certificados de conclusão e certificações pro
 | Certificação Fundamentos em Cibersegurança | IBSEC | Exame de conhecimentos e habilidades | 15/03/2026 | [Ver certificado](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
 | Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | Exame de conhecimentos e habilidades | 13/03/2026 | [Ver certificado](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
 
-O inventário reúne **5 certificações com exame e 41 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 46 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
+O inventário reúne **5 certificações com exame e 42 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 47 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
 
 As certificações práticas são descritas pelos emissores: [SYCP - Solyd](https://solyd.com.br/), [CRTA - CyberWarFare Labs](https://cyberwarfare.live/product/red-team-analyst-crta/) e [API-RTA - CyberWarFare Labs](https://cyberwarfare.live/product/api-red-team-analyst-api-rta/).
 
@@ -43,20 +43,20 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | [Pentest](<Pentest>) | 9 | SYCP, CRTA, metodologias, reconhecimento, infraestrutura, Docker, pós-exploração e evasão de antivírus e EDR |
 | [Inteligência Artificial](<IA>) | 4 | Machine Learning, LLMs, IA generativa e engenharia de prompts |
 | [Programação](<Programação>) | 3 | Python, orientação a objetos, automação, algoritmos e C |
-| [Redes e infraestrutura](<Redes e infra>) | 3 | Wi-Fi, DoS e botnets |
+| [Redes e infraestrutura](<Redes e infra>) | 4 | MITM, Wi-Fi, DoS e botnets |
 | [Sistemas](<Sistemas>) | 3 | Linux, Shell Script, Windows e Active Directory |
 | [Segurança Web](<Web>) | 4 | API-RTA, segurança de APIs, aplicações web, desenvolvimento web e IA aplicada ao pentest |
 | [Outras plataformas](<Outras plataformas>) | 3 | Ethical Hacking, introdução à cibersegurança e gestão de ameaças |
 | [Bug Bounty](<Bug Bounty>) | 1 | Automação e estratégias de Bug Bounty |
 | [Engenharia Social](<Engenharia social>) | 1 | Phishing e engenharia social |
 | [Mobile](<Mobile>) | 1 | Segurança Android e desenvolvimento de malware em laboratório |
-| **Total** | **46** | |
+| **Total** | **47** | |
 
 ### Emissores
 
 | Instituição | Credenciais |
 |---|---:|
-| Solyd Offensive Security | 30 |
+| Solyd Offensive Security | 31 |
 | DIO | 7 |
 | Cisco Networking Academy | 3 |
 | IBSEC - Instituto Brasileiro de Cibersegurança | 2 |
@@ -64,7 +64,7 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | CyberWarFare Labs | 2 |
 | Hacking Club | 1 |
 
-> A carga horária total de **478 h 16 min** considera as 38 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
+> A carga horária total de **495 h 56 min** considera as 39 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
 
 ## Catálogo completo
 
@@ -122,10 +122,11 @@ Cada formação abaixo possui acesso direto ao certificado armazenado no reposit
 </details>
 
 <details>
-<summary><strong>Redes e infraestrutura - 3 credenciais</strong></summary>
+<summary><strong>Redes e infraestrutura - 4 credenciais</strong></summary>
 
 | Formação | Emissor | Carga horária | Conclusão | Evidência |
 |---|---|---:|---:|---|
+| Ataques Man-in-the-Middle (MITM) | Solyd | 17 h 40 min | 17/11/2026 | [PDF](<Redes e infra/Ataques Man-in-the-Middle (MITM).pdf>) · [Validar](https://solyd.com.br/verificar/3trtQQvF1c) |
 | Ataques em Redes Wi-Fi | Solyd | 34 h 40 min | 25/12/2025 | [PDF](<Redes e infra/curso Ataques em Redes Wi-FI.pdf>) · [Validar](https://solyd.com.br/verificar/0ugGgwxHyp) |
 | Ataques Denial of Service - DoS e Botnets | Solyd | 6 h 40 min | 18/12/2025 | [PDF](<Redes e infra/Ataques Denial of Service (DoS) e Botnets.pdf>) · [Validar](https://solyd.com.br/verificar/MKA09YTWua) |
 | Segurança em Redes Wi-Fi | Solyd | 2 h | 12/03/2026 | [PDF](<Redes e infra/Segurança em Redes Wi-Fi.pdf>) · [Validar](https://solyd.com.br/verificar/lZ0pW8JWVM) |
