@@ -7,9 +7,9 @@
 Segurança ofensiva · Pentest · Desenvolvimento · Infraestrutura · Inteligência Artificial
 
 <p>
-  <img src="https://img.shields.io/badge/credenciais-47-2563EB?style=for-the-badge" alt="47 credenciais distintas">
+  <img src="https://img.shields.io/badge/credenciais-48-2563EB?style=for-the-badge" alt="48 credenciais distintas">
   <img src="https://img.shields.io/badge/áreas-11-7C3AED?style=for-the-badge" alt="11 áreas">
-  <img src="https://img.shields.io/badge/carga_documentada-495h_56min-059669?style=for-the-badge" alt="495 horas e 56 minutos de carga documentada">
+  <img src="https://img.shields.io/badge/carga_documentada-519h_56min-059669?style=for-the-badge" alt="519 horas e 56 minutos de carga documentada">
   <img src="https://img.shields.io/badge/período-2025--2026-334155?style=for-the-badge" alt="Período de 2025 a 2026">
 </p>
 
@@ -31,7 +31,7 @@ Repositório pessoal que reúne certificados de conclusão e certificações pro
 | Certificação Fundamentos em Cibersegurança | IBSEC | Exame de conhecimentos e habilidades | 15/03/2026 | [Ver certificado](<Fundamentos/Fundamentos em Cibersegurança.pdf>) |
 | Boas Práticas de Cibersegurança - Cybersecurity Awareness | IBSEC | Exame de conhecimentos e habilidades | 13/03/2026 | [Ver certificado](<Fundamentos/Boas Praticas de  cibersegurança.pdf>) |
 
-O inventário reúne **5 certificações com exame e 42 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 47 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
+O inventário reúne **5 certificações com exame e 43 certificados de conclusão de curso**. Os cursos estão organizados por área no catálogo abaixo; a contagem de credenciais não representa 48 certificações profissionais. O curso **Ethical Hacker, da Cisco Networking Academy**, integra a formação complementar.
 
 As certificações práticas são descritas pelos emissores: [SYCP - Solyd](https://solyd.com.br/), [CRTA - CyberWarFare Labs](https://cyberwarfare.live/product/red-team-analyst-crta/) e [API-RTA - CyberWarFare Labs](https://cyberwarfare.live/product/api-red-team-analyst-api-rta/).
 
@@ -49,14 +49,14 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | [Outras plataformas](<Outras plataformas>) | 3 | Ethical Hacking, introdução à cibersegurança e gestão de ameaças |
 | [Bug Bounty](<Bug Bounty>) | 1 | Automação e estratégias de Bug Bounty |
 | [Engenharia Social](<Engenharia social>) | 1 | Phishing e engenharia social |
-| [Mobile](<Mobile>) | 1 | Segurança Android e desenvolvimento de malware em laboratório |
-| **Total** | **47** | |
+| [Mobile](<Mobile>) | 2 | Pentest em aplicativos Android e desenvolvimento de malware em laboratório |
+| **Total** | **48** | |
 
 ### Emissores
 
 | Instituição | Credenciais |
 |---|---:|
-| Solyd Offensive Security | 31 |
+| Solyd Offensive Security | 32 |
 | DIO | 7 |
 | Cisco Networking Academy | 3 |
 | IBSEC - Instituto Brasileiro de Cibersegurança | 2 |
@@ -64,7 +64,7 @@ As certificações práticas são descritas pelos emissores: [SYCP - Solyd](http
 | CyberWarFare Labs | 2 |
 | Hacking Club | 1 |
 
-> A carga horária total de **495 h 56 min** considera as 39 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
+> A carga horária total de **519 h 56 min** considera as 40 credenciais que informam duração no próprio certificado. Certificações ou cursos sem carga horária declarada não entram nessa soma. Cada credencial é contada uma única vez, sem duplicatas. A carga é a duração declarada pelos emissores, não uma medição de horas individuais de estudo.
 
 ## Catálogo completo
 
@@ -186,10 +186,11 @@ Cada formação abaixo possui acesso direto ao certificado armazenado no reposit
 </details>
 
 <details>
-<summary><strong>Mobile - 1 credencial</strong></summary>
+<summary><strong>Mobile - 2 credenciais</strong></summary>
 
 | Formação | Emissor | Carga horária | Conclusão | Evidência |
 |---|---|---:|---:|---|
+| Pentest em Aplicativos Android | Solyd | 24 h | 19/11/2026 | [PDF](<Mobile/Pentest em Aplicativos Android.pdf>) · [Validar](https://solyd.com.br/verificar/gC7ubrtF9B) |
 | Desenvolvimento de Malwares para Android | Solyd | 1 h 20 min | 07/01/2026 | [PDF](<Mobile/curso Desenvolvimento de Malwares para Android.pdf>) · [Validar](https://solyd.com.br/verificar/bYKdrOGTiO) |
 
 </details>
@@ -218,7 +219,7 @@ Os documentos da pasta <code>Outros/</code> não entram na contagem de credencia
 - [Currículo em inglês - PDF](<Outros/Samuel_Ziger.pdf>)
 - [Currículo em inglês - DOCX](<Outros/Samuel_Ziger_CV_EN.docx>)
 
-As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **17 de novembro de 2026**.
+As versões em português e inglês apresentam as mesmas experiências e certificações, com cursos complementares selecionados por relevância. Atualizadas em **19 de novembro de 2026**.
 
 ## Observações
 
@@ -231,7 +232,7 @@ As versões em português e inglês apresentam as mesmas experiências e certifi
 
 <div align="center">
 
-**Última revisão do inventário: 17 de novembro de 2026**
+**Última revisão do inventário: 19 de novembro de 2026**
 
 [Voltar ao topo](#certificações-e-formação)
 
